@@ -1,10 +1,10 @@
 import React from 'react'
-import WoodCardTray from './Exp/WoodCardTray'
+import Solutions from './Exp/Solutions'
 
 function App() {
   return (
     <div>
-      <WoodCardTray/>
+      <Solutions/>
     </div>
   )
 }
