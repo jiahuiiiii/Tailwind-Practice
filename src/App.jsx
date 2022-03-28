@@ -1,8 +1,11 @@
 import React from 'react'
+import WoodCardTray from './Exp/WoodCardTray'
 
 function App() {
   return (
-    <div>App</div>
+    <div>
+      <WoodCardTray/>
+    </div>
   )
 }
 

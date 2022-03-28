@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Pants from "../img/pants.png";
-import Pants2 from "../img/pants2.png";
+import Pants2_ from "../img/pants2.png";
 import Pants3 from "../img/pants3.png";
 import Pants4 from "../img/pants4.png";
 import { Icon } from '@iconify/react';
@@ -22,7 +22,7 @@ function Pants2() {
         <div className="text-slate-700">Silfeel Jogger Pants</div>
       </div>
       <div className="flex flex-row space-x-10 pt-10">
-        <img src={Pants2} className="w-72 object-cover" />
+        <img src={Pants2_} className="w-72 object-cover" />
         <div className="space-y-10">
           <img src={Pants4} className="w-60" />
           <img src={Pants3} className="w-60" />

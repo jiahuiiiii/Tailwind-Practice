@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Pants from "./img/pants.png";
+import Pants_ from "../img/pants.png";
 import { Icon } from "@iconify/react";
 
 function Pants() {
@@ -9,7 +9,7 @@ function Pants() {
   return (
     <div className="flex font-['Noto Sans'] justify-center items-center bg-amber-200 w-screen h-screen">
       <div className="bg-white flex flex-row relative w-8/12">
-        <img className="object-cover p-10 w-1/2" src={Pants} />
+        <img className="object-cover p-10 w-1/2" src={Pants_} />
         <div className="pt-10">
           <div className="font-bold text-3xl">Silfeel Jogger Pants</div>
           <div className="font-light text-3xl py-3">$192</div>

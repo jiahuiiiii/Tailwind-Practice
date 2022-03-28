@@ -1,4 +1,4 @@
-import beer from "./beer.jpg";
+import beer from "../img/beer.jpg";
 import { Icon } from "@iconify/react";
 
 function App() {
