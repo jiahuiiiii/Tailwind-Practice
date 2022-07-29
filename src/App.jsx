@@ -1,12 +1,8 @@
-import React from 'react'
-import Solutions from './Exp/Solutions'
+import React from "react";
+import Pants from "./Exp/Pants";
 
 function App() {
-  return (
-    <div>
-      <Solutions/>
-    </div>
-  )
+  return <Pants />;
 }
 
-export default App
+export default App;
